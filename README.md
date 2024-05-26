@@ -1,1 +1,1 @@
-# Programa-de-cursos-integrados-Mathematics-for-Machine-Learning
+# Programa de cursos integrados Matemática para aprendizado de máquina
